@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# raw/staging/quarantine are local-only
+projects/olist/data/raw/
+projects/citibike/data/raw/
+projects/citibike/data/staging/
+projects/citibike/data/quarantine/
+
+# internal working files / personal outputs / local dashboards
+work/
+outputs/
+docs/
+*.pbix
