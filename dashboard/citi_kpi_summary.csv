@@ -1,0 +1,9 @@
+﻿metric,value
+raw_rows,271904.0
+staging_rows,271814.0
+quarantine_rows,90.0
+stations,278.0
+mart_rows,289.0
+trips,271814.0
+member_avg_min,8.07
+casual_avg_min,16.33
