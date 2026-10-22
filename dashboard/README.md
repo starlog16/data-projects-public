@@ -6,7 +6,7 @@
 
 导入：
 
-- olists_kpi_summary.csv（注意：实际文件名是 olist_kpi_summary.csv）
+- olist_kpi_summary.csv
 - olist_monthly.csv
 - olist_late_distribution.csv
 - olist_seller_top20.csv
