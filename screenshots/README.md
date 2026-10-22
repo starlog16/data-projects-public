@@ -1,8 +1,7 @@
 # 看板截图
 
-这里放置 Power BI 看板截图（PNG），建议每个项目 2–3 张：
+- olist_dashboard.png：Olist 商家贡献页（Power BI 截图 + 指标卡整理）
+- citi_dashboard.png：Citi Bike 24 小时用户规律页（Power BI 截图 + 指标卡整理）
 
-- Olist：经营总览、履约时效、商家 Top 10。
-- Citi Bike：站点潮汐与调度、24 小时用户规律。
-
-不要在这里放原始数据、PBIX 或包含个人信息的图片。
+截图只放聚合结果，不含原始数据或个人信息。
+原始/明细数据与 PBIX 不上传；PBIX 仅本地面试演示。
